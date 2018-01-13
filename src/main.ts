@@ -1,6 +1,7 @@
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
+// 引导根模块
 import { AppModule } from './app/app.module';
 import { environment } from './environments/environment';
 
